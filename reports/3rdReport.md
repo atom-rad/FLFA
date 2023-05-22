@@ -85,6 +85,7 @@ print("The tokens are:", token_output)
 ## Conclusions / Screenshots / Results
 
 In this laboratory work I implemented a lexer. I learned lexing and tokenizing strings.
+
 ![lexer](https://github.com/atom-rad/FLFA/assets/113429347/ad2cc67c-4922-42d2-a4fc-8895ab38be6d)
 ![lexer1](https://github.com/atom-rad/FLFA/assets/113429347/7b9ea4c8-8147-47fc-9da7-45ef2cb58e3a)
 
