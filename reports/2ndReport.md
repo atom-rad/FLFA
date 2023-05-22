@@ -147,7 +147,8 @@ def to_graphviz(self):
 
 ## Conclusions / Screenshots / Results
 
-In this laboratory work I implemented certain functionality of **Grammar** and **FiniteAutomaton** classes. I learned how can they be transformed each into other. I learned to convert a FA to a DFA and to check grammar's Chomsky Hierarchy type.
+In this laboratory work I implemented certain functionality of **Grammar** and **FiniteAutomaton** classes. I learned how can they be transformed each into other. I learned to check grammar's Chomsky Hierarchy type, to convert a FA to a DFA and to represent it graphically.
+![dfa](https://github.com/atom-rad/FLFA/assets/113429347/cec2268a-002a-4311-a8de-40d4b561ab59)
 
 ## References:
 * Hopcroft, John E., and Jeffrey D. Ullman. Introduction to Automata Theory, Languages, and Computation. Addison-Wesley, 1979.
