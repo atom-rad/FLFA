@@ -154,4 +154,4 @@ During this laboratory work, I successfully implemented the conversion of a Cont
 ![cnf1](https://github.com/atom-rad/FLFA/assets/113429347/e4663ea3-d86b-4bf7-9de6-081729ce3ac0)
 
 ## References
-[[1] [Chomsky Normal Form Wiki](https://en.wikipedia.org/wiki/Chomsky_normal_form)](https://www.javatpoint.com/automata-chomskys-normal-form)
+[[1]](https://www.javatpoint.com/automata-chomskys-normal-form)
