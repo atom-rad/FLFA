@@ -150,3 +150,8 @@ print(Grammar(vn, vt, p, ss))
 ## Conclusions / Screenshots / Results
 
 During this laboratory work, I successfully implemented the conversion of a Context-Free Grammar (CFG) to Chomsky Normal Form (CNF), which involved a series of steps. This process allowed me to gain a deeper understanding of CNF and its significance in simplifying grammars for computational tasks. I also learned valuable problem-solving techniques to address challenges encountered during the implementation of the CNF conversion algorithm.
+
+![cnf1](https://github.com/atom-rad/FLFA/assets/113429347/e4663ea3-d86b-4bf7-9de6-081729ce3ac0)
+
+## References
+[[1] [Chomsky Normal Form Wiki](https://en.wikipedia.org/wiki/Chomsky_normal_form)](https://www.javatpoint.com/automata-chomskys-normal-form)
